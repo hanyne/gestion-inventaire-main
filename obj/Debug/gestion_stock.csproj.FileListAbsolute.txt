@@ -1,0 +1,110 @@
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\gestion_stock.exe.config
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.csproj.AssemblyReference.cache
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.Properties.Resources.resources
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.view.menu.resources
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.csproj.GenerateResource.cache
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.csproj.CoreCompileInputs.cache
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.view.connexion.resources
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\gestion_stock.mdf
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\gestion_stock_log.ldf
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\EntityFramework.dll
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\EntityFramework.xml
+C:\Users\eki\Desktop\projet c#\gestion_stock\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.csproj.CopyComplete
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.classe.User_Liste_Client.resources
+C:\Users\eki\Desktop\projet c#\gestion_stock\obj\Debug\gestion_stock.view.Ajoute_Modifier_client.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\gestion_stock.mdf
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\gestion_stock_log.ldf
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\gestion_stock.exe.config
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\gestion_stock.exe
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\gestion_stock.pdb
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\EntityFramework.dll
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\EntityFramework.xml
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.csproj.AssemblyReference.cache
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.classe.User_Liste_Client.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.Properties.Resources.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.Ajoute_Modifier_client.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.connexion.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.menu.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.csproj.GenerateResource.cache
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.csproj.CoreCompileInputs.cache
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.csproj.CopyComplete
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.exe
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.pdb
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.CategoryModuleForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.CategoryForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.ProductForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.ProductModuleForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.SupplierForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.SupplierModuleForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.CustomerModuleForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.CustomerForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.OrderForm.resources
+D:\Ed\1ing\Sem1\C#\Projects\gestion_stock\obj\Debug\gestion_stock.view.OrderModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\gestion_stock.mdf
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\gestion_stock_log.ldf
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\gestion_stock.exe.config
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\EntityFramework.dll
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\EntityFramework.xml
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.AssemblyReference.cache
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.classe.User_Liste_Client.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.Properties.Resources.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.Ajoute_Modifier_client.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.CategoryModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.CategoryForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.connexion.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.CustomerModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.CustomerForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.menu.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.OrderForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.OrderModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.ProductForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.ProductModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.SupplierForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.view.SupplierModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.GenerateResource.cache
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CoreCompileInputs.cache
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CopyComplete
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\gestion-inventaire-main (2)\gestion-inventaire-main\obj\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\gestion_stock.mdf
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\gestion_stock_log.ldf
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\gestion_stock.exe.config
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\EntityFramework.dll
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\EntityFramework.xml
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.AssemblyReference.cache
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.classe.User_Liste_Client.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.Properties.Resources.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.Ajoute_Modifier_client.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.CategoryModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.CategoryForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.connexion.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.CustomerModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.CustomerForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.menu.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.OrderForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.OrderModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.ProductForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.ProductModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.SupplierForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.SupplierModuleForm.resources
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.GenerateResource.cache
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CoreCompileInputs.cache
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CopyComplete
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.exe
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.pdb
