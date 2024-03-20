@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\cls_connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:classe\\cls_connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\cls_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:classe\\cls_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\suppliermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\suppliermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\suppliermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\suppliermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\dbstock.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:dbstock.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:view\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\user_liste_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:classe\\user_liste_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\cls_categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:classe\\cls_categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\ajoute_modifier_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F1A5DF-F250-42F4-AE59-9AE8851AE444}|gestion_stock.csproj|solutionrelative:classe\\ajoute_modifier_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:view\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "view\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "view\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:04:50.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs",
+              "RelativeDocumentMoniker": "view\\menu.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs",
+              "RelativeToolTip": "view\\menu.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAIA/wIoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\CustomerModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerModuleForm.cs",
+              "RelativeToolTip": "view\\CustomerModuleForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:04:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs",
+              "RelativeDocumentMoniker": "view\\menu.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\menu.cs [Design]",
+              "RelativeToolTip": "view\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:04:10.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerModuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\CustomerModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerModuleForm.cs [Design]",
+              "RelativeToolTip": "view\\CustomerModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "view\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.cs",
+              "RelativeToolTip": "view\\CustomerForm.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAADgv1cAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:04:52.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "connexion.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs",
+              "RelativeDocumentMoniker": "view\\connexion.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs",
+              "RelativeToolTip": "view\\connexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T14:40:36.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cls_connexion.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_connexion.cs",
+              "RelativeDocumentMoniker": "classe\\Cls_connexion.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_connexion.cs",
+              "RelativeToolTip": "classe\\Cls_connexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T18:06:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "connexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs",
+              "RelativeDocumentMoniker": "view\\connexion.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\connexion.cs [Design]",
+              "RelativeToolTip": "view\\connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:53:21.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbStock.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.edmx",
+              "RelativeDocumentMoniker": "DbStock.edmx",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.edmx [Diagram1]",
+              "RelativeToolTip": "DbStock.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2023-12-15T20:26:09.295Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "table.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\table.cs",
+              "RelativeDocumentMoniker": "view\\table.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\table.cs [Design]",
+              "RelativeToolTip": "view\\table.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:14:40.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "view\\CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "view\\CustomerForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:16:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderForm.cs",
+              "RelativeDocumentMoniker": "view\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderForm.cs [Design]",
+              "RelativeToolTip": "view\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:04:03.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cls_client.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_client.cs",
+              "RelativeDocumentMoniker": "classe\\Cls_client.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_client.cs",
+              "RelativeToolTip": "classe\\Cls_client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:12:32.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "view\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "view\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "view\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryForm.cs",
+              "RelativeToolTip": "view\\CategoryForm.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAD4v4IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:05:07.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\SupplierModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierModuleForm.cs",
+              "RelativeToolTip": "view\\SupplierModuleForm.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SupplierModuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\SupplierModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierModuleForm.cs [Design]",
+              "RelativeToolTip": "view\\SupplierModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbStock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.Designer.cs",
+              "RelativeDocumentMoniker": "DbStock.Designer.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.Designer.cs",
+              "RelativeToolTip": "DbStock.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T20:29:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbStock.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.edmx.diagram",
+              "RelativeDocumentMoniker": "DbStock.edmx.diagram",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.edmx.diagram",
+              "RelativeToolTip": "DbStock.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-15T20:29:26.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbStock.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.cs",
+              "RelativeDocumentMoniker": "DbStock.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.cs",
+              "RelativeToolTip": "DbStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T20:31:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\Commande.cs",
+              "RelativeDocumentMoniker": "Commande.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\Commande.cs",
+              "RelativeToolTip": "Commande.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T20:30:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-15T20:31:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbStock.tt",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.tt",
+              "RelativeDocumentMoniker": "DbStock.tt",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.tt",
+              "RelativeToolTip": "DbStock.tt",
+              "ViewState": "AQIAANwCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-15T20:29:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DbStock.Context.tt",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.Context.tt",
+              "RelativeDocumentMoniker": "DbStock.Context.tt",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\DbStock.Context.tt",
+              "RelativeToolTip": "DbStock.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-15T20:28:32.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductForm.cs",
+              "RelativeDocumentMoniker": "view\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductForm.cs [Design]",
+              "RelativeToolTip": "view\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductModuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\ProductModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductModuleForm.cs [Design]",
+              "RelativeToolTip": "view\\ProductModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductForm.cs",
+              "RelativeDocumentMoniker": "view\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductForm.cs",
+              "RelativeToolTip": "view\\ProductForm.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\OrderModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderModuleForm.cs",
+              "RelativeToolTip": "view\\OrderModuleForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderModuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\OrderModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderModuleForm.cs [Design]",
+              "RelativeToolTip": "view\\OrderModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryModuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\CategoryModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryModuleForm.cs [Design]",
+              "RelativeToolTip": "view\\CategoryModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\CategoryModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\CategoryModuleForm.cs",
+              "RelativeToolTip": "view\\CategoryModuleForm.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderForm.cs",
+              "RelativeDocumentMoniker": "view\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\OrderForm.cs",
+              "RelativeToolTip": "view\\OrderForm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "view\\ProductModuleForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\ProductModuleForm.cs",
+              "RelativeToolTip": "view\\ProductModuleForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwDEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SupplierForm.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "view\\SupplierForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierForm.cs",
+              "RelativeToolTip": "view\\SupplierForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:03:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SupplierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "view\\SupplierForm.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\view\\SupplierForm.cs [Design]",
+              "RelativeToolTip": "view\\SupplierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User_Liste_Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\User_Liste_Client.cs",
+              "RelativeDocumentMoniker": "classe\\User_Liste_Client.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\User_Liste_Client.cs [Design]",
+              "RelativeToolTip": "classe\\User_Liste_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cls_Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_Categorie.cs",
+              "RelativeDocumentMoniker": "classe\\Cls_Categorie.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Cls_Categorie.cs",
+              "RelativeToolTip": "classe\\Cls_Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Ajoute_Modifier_client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Ajoute_Modifier_client.cs",
+              "RelativeDocumentMoniker": "classe\\Ajoute_Modifier_client.cs",
+              "ToolTip": "C:\\Users\\eki\\Desktop\\gestion-inventaire c#\\gestion-inventaire-main\\classe\\Ajoute_Modifier_client.cs [Design]",
+              "RelativeToolTip": "classe\\Ajoute_Modifier_client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T13:02:16.281Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

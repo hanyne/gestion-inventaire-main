@@ -95,5 +95,10 @@ namespace gestion_stock.view
             }
             this.Close(); // Close the current form after disconnecting
         }
+
+        private void CustomerForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

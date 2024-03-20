@@ -105,6 +105,6 @@ C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\ges
 C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.view.SupplierModuleForm.resources
 C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.GenerateResource.cache
 C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CoreCompileInputs.cache
-C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.csproj.CopyComplete
 C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.exe
 C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_stock.pdb
+C:\Users\eki\Desktop\gestion-inventaire c#\gestion-inventaire-main\obj\Debug\gestion_.36703984.Up2Date

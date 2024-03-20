@@ -34,14 +34,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CustomerForm));
             this.dgvCustomer = new System.Windows.Forms.DataGridView();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.textrecherche = new System.Windows.Forms.TextBox();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.bntajouteclient = new System.Windows.Forms.Button();
             this.customer_id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.customer_last_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.customer_first_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -52,6 +44,14 @@
             this.customer_email = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Edit = new System.Windows.Forms.DataGridViewImageColumn();
             this.Delete = new System.Windows.Forms.DataGridViewImageColumn();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.textrecherche = new System.Windows.Forms.TextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.bntajouteclient = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCustomer)).BeginInit();
             this.SuspendLayout();
             // 
@@ -109,6 +109,70 @@
             this.dgvCustomer.Size = new System.Drawing.Size(1096, 476);
             this.dgvCustomer.TabIndex = 17;
             this.dgvCustomer.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dvgclient_CellContentClick);
+            // 
+            // customer_id
+            // 
+            this.customer_id.HeaderText = "ID";
+            this.customer_id.MinimumWidth = 6;
+            this.customer_id.Name = "customer_id";
+            // 
+            // customer_last_name
+            // 
+            this.customer_last_name.HeaderText = "Nom";
+            this.customer_last_name.MinimumWidth = 6;
+            this.customer_last_name.Name = "customer_last_name";
+            // 
+            // customer_first_name
+            // 
+            this.customer_first_name.HeaderText = "Prenom";
+            this.customer_first_name.MinimumWidth = 6;
+            this.customer_first_name.Name = "customer_first_name";
+            // 
+            // customer_address
+            // 
+            this.customer_address.HeaderText = "Adresse";
+            this.customer_address.MinimumWidth = 6;
+            this.customer_address.Name = "customer_address";
+            // 
+            // customer_phone
+            // 
+            this.customer_phone.HeaderText = "Telephone";
+            this.customer_phone.MinimumWidth = 6;
+            this.customer_phone.Name = "customer_phone";
+            // 
+            // customer_country
+            // 
+            this.customer_country.HeaderText = "Pays";
+            this.customer_country.MinimumWidth = 6;
+            this.customer_country.Name = "customer_country";
+            // 
+            // customer_city
+            // 
+            this.customer_city.HeaderText = "Ville";
+            this.customer_city.MinimumWidth = 6;
+            this.customer_city.Name = "customer_city";
+            // 
+            // customer_email
+            // 
+            this.customer_email.HeaderText = "Email";
+            this.customer_email.MinimumWidth = 6;
+            this.customer_email.Name = "customer_email";
+            // 
+            // Edit
+            // 
+            this.Edit.HeaderText = "Modifier";
+            this.Edit.Image = global::gestion_stock.Properties.Resources.pencil_11;
+            this.Edit.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
+            this.Edit.MinimumWidth = 6;
+            this.Edit.Name = "Edit";
+            // 
+            // Delete
+            // 
+            this.Delete.HeaderText = "Supprimer";
+            this.Delete.Image = global::gestion_stock.Properties.Resources.trash_can_1_1s_232px;
+            this.Delete.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
+            this.Delete.MinimumWidth = 6;
+            this.Delete.Name = "Delete";
             // 
             // comboBox1
             // 
@@ -209,70 +273,6 @@
             this.bntajouteclient.UseVisualStyleBackColor = false;
             this.bntajouteclient.Click += new System.EventHandler(this.bntajouteclient_Click);
             // 
-            // customer_id
-            // 
-            this.customer_id.HeaderText = "ID";
-            this.customer_id.MinimumWidth = 6;
-            this.customer_id.Name = "customer_id";
-            // 
-            // customer_last_name
-            // 
-            this.customer_last_name.HeaderText = "Nom";
-            this.customer_last_name.MinimumWidth = 6;
-            this.customer_last_name.Name = "customer_last_name";
-            // 
-            // customer_first_name
-            // 
-            this.customer_first_name.HeaderText = "Prenom";
-            this.customer_first_name.MinimumWidth = 6;
-            this.customer_first_name.Name = "customer_first_name";
-            // 
-            // customer_address
-            // 
-            this.customer_address.HeaderText = "Adresse";
-            this.customer_address.MinimumWidth = 6;
-            this.customer_address.Name = "customer_address";
-            // 
-            // customer_phone
-            // 
-            this.customer_phone.HeaderText = "Telephone";
-            this.customer_phone.MinimumWidth = 6;
-            this.customer_phone.Name = "customer_phone";
-            // 
-            // customer_country
-            // 
-            this.customer_country.HeaderText = "Pays";
-            this.customer_country.MinimumWidth = 6;
-            this.customer_country.Name = "customer_country";
-            // 
-            // customer_city
-            // 
-            this.customer_city.HeaderText = "Ville";
-            this.customer_city.MinimumWidth = 6;
-            this.customer_city.Name = "customer_city";
-            // 
-            // customer_email
-            // 
-            this.customer_email.HeaderText = "Email";
-            this.customer_email.MinimumWidth = 6;
-            this.customer_email.Name = "customer_email";
-            // 
-            // Edit
-            // 
-            this.Edit.HeaderText = "Modifier";
-            this.Edit.Image = global::gestion_stock.Properties.Resources.pencil_11;
-            this.Edit.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
-            this.Edit.MinimumWidth = 6;
-            this.Edit.Name = "Edit";
-            // 
-            // Delete
-            // 
-            this.Delete.HeaderText = "Supprimer";
-            this.Delete.Image = global::gestion_stock.Properties.Resources.trash_can_1_1s_232px;
-            this.Delete.ImageLayout = System.Windows.Forms.DataGridViewImageCellLayout.Zoom;
-            this.Delete.MinimumWidth = 6;
-            this.Delete.Name = "Delete";
-            // 
             // CustomerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -290,6 +290,7 @@
             this.Name = "CustomerForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CustomerModuleForm";
+            this.Load += new System.EventHandler(this.CustomerForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvCustomer)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
